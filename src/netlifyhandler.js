@@ -1,21 +1,25 @@
+// import config from '../config';
 exports.handler = function(event, context, callback) {
     // your server-side functionality
 
-	// Download the helper library from https://www.twilio.com/docs/node/install
-	// Your Account Sid and Auth Token from twilio.com/console
-	// DANGER! This is insecure. See http://twil.io/secure
-	
-	// const accountSid = 'ACd4b505130da1a6a850be4df1a065a58b';
-	// const authToken = '77693b21e0634c088a5d92a2730742ff';
-	// const client = require('twilio')(accountSid, authToken);
+	// const accountSid = 'ACdfb2198d9f107fa238a643ec05971d12';
+	// const authToken = '4a3d78a194c018b589f74d1e6006b0f3';
+	//Initialize a REST client in a single line:
+	const client = require('twilio')('TWILIO_ACCOUNT_SID', 'TWILIO_AUTH_TOKEN');
 
-	// client.messages
-  	// 	.create({
-    // 		body: 'This is the ship that made the Kessel Run in fourteen parsecs?',
-    //  		from: '+15108803280',
-    //  		to: '+17208192478'
-   	// 	})
-  	// 	.then(message => console.log(message.sid));
-
-	console.log('test')
+	// Use this convenient shorthand to send an SMS:
+	client.sendSms({
+		to:'+17208192478',
+		from:'+15625014648',
+		body:'ahoy hoy! Testing Twilio and node.js'
+	}, function(error, message) {
+		if (!error) {
+			console.log('Success! The SID for this SMS message is:');
+			console.log(message.sid);
+			console.log('Message sent on:');
+			console.log(message.dateCreated);
+		} else {
+			console.log('Oops! There was an error.');
+		}
+	});
 }

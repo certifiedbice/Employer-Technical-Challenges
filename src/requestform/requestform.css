@@ -1,0 +1,25 @@
+#form-container {
+	padding: 5px;
+}
+
+#request-form {
+	width: 100%;
+}
+
+#request-form legend{
+
+}
+
+.form-label {
+	display: block;
+	width: 100%;
+	text-align: left;
+}
+
+.form-input {
+	width: 100%;
+}
+
+#form-error-container {
+	color: #f00;
+}

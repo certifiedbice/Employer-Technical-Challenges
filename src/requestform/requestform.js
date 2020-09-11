@@ -1,13 +1,16 @@
 import React,{Component} from 'react';
 import './requestform.css';
+const handler=require('../netlifyhandler');
 
 export default class RequestForm extends Component{
 	state={error:null}
 	handleSubmit=e=>{
         e.preventDefault()
         const {f_name,l_name,str1,str2,city,state,zip,email,phone}=e.target;
-
-		console.log(f_name.value,l_name.value,str1.value,str2.value,city.value,state.value,zip.value,email.value,phone.value);
+		// console.log(f_name.value,l_name.value,str1.value,str2.value,city.value,state.value,zip.value,email.value,phone.value);
+		if(phone!==undefined){
+			handler.handler()
+		}
     }
 	validate=input=>{
 		if(input.target.value===null||input.target.value===undefined||input.target.value===''){this.setState({error:null});}

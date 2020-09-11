@@ -1,17 +1,17 @@
 import React,{Component} from 'react';
 import './requestform.css';
-const handler=require('../netlifyhandler');
+const submit=require('../netlifyhandler');
 
 export default class RequestForm extends Component{
 	state={error:null}
-	handleSubmit=e=>{
-        e.preventDefault()
-        const {f_name,l_name,str1,str2,city,state,zip,email,phone}=e.target;
-		// console.log(f_name.value,l_name.value,str1.value,str2.value,city.value,state.value,zip.value,email.value,phone.value);
-		if(phone!==undefined){
-			handler.handler()
-		}
-    }
+	// handleSubmit=e=>{
+    //     e.preventDefault()
+    //     const {f_name,l_name,str1,str2,city,state,zip,email,phone}=e.target;
+	// 	// console.log(f_name.value,l_name.value,str1.value,str2.value,city.value,state.value,zip.value,email.value,phone.value);
+	// 	if(phone!==undefined){
+	// 		handler.handler()
+	// 	}
+    // }
 	validate=input=>{
 		if(input.target.value===null||input.target.value===undefined||input.target.value===''){this.setState({error:null});}
 		else if(input.target.name==='f_name'||input.target.name==='l_name'||input.target.name==='city'){
@@ -34,7 +34,7 @@ export default class RequestForm extends Component{
 
         return(
             <div id='form-container'>
-				<form id='request-form' name='request-form' aria-label='request-form' onSubmit={this.handleSubmit}>
+				<form id='request-form' name='request-form' aria-label='request-form' onSubmit={submit.handler}>
                     <fieldset>
                         <legend><h2>Submit an Endorsement</h2></legend>
                         <div className='form-element-container'>

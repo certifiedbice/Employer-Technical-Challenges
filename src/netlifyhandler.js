@@ -1,9 +1,9 @@
 exports.handler = function(e, context, callback) {
 	e.preventDefault()
     const {phone}=e.target;
-	// console.log(f_name.value,l_name.value,str1.value,str2.value,city.value,state.value,zip.value,email.value,phone.value);
+	// console.log(phone.value);
 	if(phone!==undefined){
-		let newPhone=phone.split('-');
+		let newPhone=phone.value.split('-');
 		newPhone=newPhone.join('');
 		console.log(newPhone);
 		const accountSid = 'ACdfb2198d9f107fa238a643ec05971d12';

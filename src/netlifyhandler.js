@@ -1,8 +1,11 @@
 exports.handler = function(e, context, callback) {
 	e.preventDefault()
-    const {f_name,l_name,str1,str2,city,state,zip,email,phone}=e.target;
+    const {phone}=e.target;
 	// console.log(f_name.value,l_name.value,str1.value,str2.value,city.value,state.value,zip.value,email.value,phone.value);
 	if(phone!==undefined){
+		let newPhone=phone.explode('-');
+		newPhone=newPhone.join('');
+		console.log(newPhone);
 		const accountSid = 'ACdfb2198d9f107fa238a643ec05971d12';
 		const authToken = 'a3ca39344339d4e05f069d9f11dec7fd';
 		//Initialize a REST client in a single line:
@@ -11,7 +14,7 @@ exports.handler = function(e, context, callback) {
 		// Use this convenient shorthand to send an SMS:
 		client.messages.create({
 			to:'+17208192478',
-			from:'+15625014648',
+			from:`+1${newPhone}`,
 			body:'ahoy hoy! Testing Twilio and node.js'
 		}, function(error, message) {
 			if (!error) {

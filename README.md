@@ -9,4 +9,4 @@ under the lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Say Hello to HTML elements**
-- Your answer goes here if you struggled with this lesson.
+- I did not struggle with this module.

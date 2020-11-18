@@ -383,3 +383,343 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 
 **Make Motion More Natural Using a Bezier Curve**
 - I did not struggle with this module.
+
+## Javascript Algorithms and Data Structures Certification (300 hours)
+
+### Basic Javascript
+
+**Introduction to JavaScript**
+- I did not struggle with this module.
+
+**Comment Your JavaScript Code**
+- I did not struggle with this module.
+
+**Declare JavaScript Variables**
+- I did not struggle with this module.
+
+**Storing Values with the Assignment Operator**
+- I did not struggle with this module.
+
+**Assigning the Value of One Variable to Another**
+- I did not struggle with this module.
+
+**Initializing Variables with the Assignment Operator**
+- I did not struggle with this module.
+
+**Understanding Uninitialized Variables**
+- I did not struggle with this module.
+
+**Understanding Case Sensitivity in Variables**
+- I did not struggle with this module.
+
+**Add Two Numbers with JavaScript**
+- I did not struggle with this module.
+
+**Subtract One Number from Another with JavaScript**
+- I did not struggle with this module.
+
+**Multiply Two Numbers with JavaScript**
+- I did not struggle with this module.
+
+**Divide One Number by Another with JavaScript**
+- I did not struggle with this module.
+
+**Increment a Number with JavaScript**
+- I did not struggle with this module.
+
+**Decrement a Number with JavaScript**
+- I did not struggle with this module.
+
+**Create Decimal Numbers with JavaScript**
+- I did not struggle with this module.
+
+**Multiply Two Decimals with JavaScript**
+- I did not struggle with this module.
+
+**Divide One Decimal by Another with JavaScript**
+- I did not struggle with this module.
+
+**Finding a Remainder in JavaScript**
+- I did not struggle with this module.
+
+**Compound Assignment With Augmented Addition**
+- I did not struggle with this module.
+
+**Compound Assignment With Augmented Subtraction**
+- I did not struggle with this module.
+
+**Compound Assignment With Augmented Multiplication**
+- I did not struggle with this module.
+
+**Compound Assignment With Augmented Division**
+- I did not struggle with this module.
+
+**Declare String Variables**
+- I did not struggle with this module.
+
+**Escaping Literal Quotes in Strings**
+- I did not struggle with this module.
+
+**Quoting Strings with Single Quotes**
+- I did not struggle with this module.
+
+**Escape Sequences in Strings**
+- I did not struggle with this module.
+
+**Concatenating Strings with Plus Operator**
+- I did not struggle with this module.
+
+**Concatenating Strings with the Plus Equals Operator**
+- I did not struggle with this module.
+
+**Constructing Strings with Variables**
+- I did not struggle with this module.
+
+**Appending Variables to Strings**
+- I did not struggle with this module.
+
+**Find the Length of a String**
+- I did not struggle with this module.
+
+**Use Bracket Notation to Find the First Character in a String**
+- I did not struggle with this module.
+
+**Understand String Immutability**
+- I did not struggle with this module.
+
+**Use Bracket Notation to Find the Nth Character in a String**
+- I did not struggle with this module.
+
+**Use Bracket Notation to Find the Last Character in a String**
+- I did not struggle with this module.
+
+**Use Bracket Notation to Find the Nth-to-Last Character in a String**
+- I did not struggle with this module.
+
+**Word Blanks**
+- I did not struggle with this module.
+
+**Store Multiple Values in one Variable using JavaScript Arrays**
+- I did not struggle with this module.
+
+**Nest one Array within Another Array**
+- I did not struggle with this module.
+
+**Access Array Data with Indexes**
+- I did not struggle with this module.
+
+**Modify Array Data With Indexes**
+- I did not struggle with this module.
+
+**Access Multi-Dimensional Arrays With Indexes**
+- I did not struggle with this module.
+
+**Manipulate Arrays With push()**
+- I did not struggle with this module.
+
+**Manipulate Arrays With pop()**
+- I did not struggle with this module.
+
+**Manipulate Arrays With shift()**
+- I did not struggle with this module.
+
+**Manipulate Arrays With unshift()**
+- I did not struggle with this module.
+
+**Shopping List**
+- I did not struggle with this module.
+
+**Write Reusable JavaScript with Functions**
+- I did not struggle with this module.
+
+**Passing Values to Functions with Arguments**
+- I did not struggle with this module.
+
+**Global Scope and Functions**
+- I did not struggle with this module.
+
+**Local Scope and Functions**
+- I did not struggle with this module.
+
+**Global vs. Local Scope in Functions**
+- I did not struggle with this module.
+
+**Return a Value from a Function with Return**
+- I did not struggle with this module.
+
+**Understanding Undefined Value returned from a Function**
+- I did not struggle with this module.
+
+**Assignment with a Returned Value**
+- I did not struggle with this module.
+
+**Stand in Line**
+- I did not struggle with this module.
+
+**Understanding Boolean Values**
+- I did not struggle with this module.
+
+**Use Conditional Logic with If Statements**
+- I did not struggle with this module.
+
+**Comparison with the Equality Operator**
+- I did not struggle with this module.
+
+**Comparison with the Strict Equality Operator**
+- I did not struggle with this module.
+
+**Practice comparing different values**
+- I did not struggle with this module.
+
+**Comparison with the Inequality Operator**
+- I did not struggle with this module.
+
+**Comparison with the Strict Inequality Operator**
+- I did not struggle with this module.
+
+**Comparison with the Greater Than Operator**
+- I did not struggle with this module.
+
+**Comparison with the Greater Than Or Equal To Operator**
+- I did not struggle with this module.
+
+**Comparison with the Less Than Operator**
+- I did not struggle with this module.
+
+**Comparison with the Less Than Or Equal To Operator**
+- I did not struggle with this module.
+
+**Comparisons with the Logical And Operator**
+- I did not struggle with this module.
+
+**Comparisons with the Logical Or Operator**
+- I did not struggle with this module.
+
+**Introducing Else Statements**
+- I did not struggle with this module.
+
+**Introducing Else If Statements**
+- I did not struggle with this module.
+
+**Logical Order in If Else Statements**
+- I did not struggle with this module.
+
+**Chaining If Else Statements**
+- I did not struggle with this module.
+
+**Golf Code**
+- I did not struggle with this module.
+
+**Selecting from Many Options with Switch Statements**
+- I did not struggle with this module.
+
+**Adding a Default Option in Switch Statements**
+- I did not struggle with this module.
+
+**Multiple Identical Options in Switch Statements**
+- I did not struggle with this module.
+
+**Replacing If Else Chains with Switch**
+- I did not struggle with this module.
+
+**Returning Boolean Values from Functions**
+- I did not struggle with this module.
+
+**Return Early Pattern for Functions**
+- I did not struggle with this module.
+
+**Counting Cards**
+- I did not struggle with this module.
+
+**Build JavaScript Objects**
+- I did not struggle with this module.
+
+**Accessing Object Properties with Dot Notation**
+- I did not struggle with this module.
+
+**Accessing Object Properties with Bracket Notation**
+- I did not struggle with this module.
+
+**Accessing Object Properties with Variables**
+- I did not struggle with this module.
+
+**Updating Object Properties**
+- I did not struggle with this module.
+
+**Add New Properties to a JavaScript Object**
+- I did not struggle with this module.
+
+**Delete Properties from a JavaScript Object**
+- I did not struggle with this module.
+
+**Using Objects for Lookups**
+- I did not struggle with this module.
+
+**Testing Objects for Properties**
+- I did not struggle with this module.
+
+**Manipulating Complex Objects**
+- I did not struggle with this module.
+
+**Accessing Nested Objects**
+- I did not struggle with this module.
+
+**Accessing Nested Arrays**
+- I did not struggle with this module.
+
+**Record Collection**
+- I did not struggle with this module.
+
+**Iterate with JavaScript While Loops**
+- I did not struggle with this module.
+
+**Iterate with JavaScript For Loops**
+- I did not struggle with this module.
+
+**Iterate Odd Numbers With a For Loop**
+- I did not struggle with this module.
+
+**Count Backwards With a For Loop**
+- I did not struggle with this module.
+
+**Iterate Through an Array with a For Loop**
+- I did not struggle with this module.
+
+**Nesting For Loops**
+- I did not struggle with this module.
+
+**Iterate with JavaScript Do...While Loops**
+- I did not struggle with this module.
+
+**Replace Loops using Recursion**
+- I did not struggle with this module.
+
+**Profile Lookup**
+- I did not struggle with this module.
+
+**Generate Random Fractions with JavaScript**
+- I did not struggle with this module.
+
+**Generate Random Whole Numbers with JavaScript**
+- I did not struggle with this module.
+
+**Generate Random Whole Numbers within a Range**
+- I did not struggle with this module.
+
+**Use the parseInt Function**
+- I did not struggle with this module.
+
+**Use the parseInt Function with a Radix**
+- I did not struggle with this module.
+
+**Use the Conditional (Ternary) Operator**
+- I did not struggle with this module.
+
+**Use Multiple Conditional (Ternary) Operators**
+- I did not struggle with this module.
+
+**Use Recursion to Create a Countdown**
+- I did not struggle with this module.
+
+**Use Recursion to Create a Range of Numbers**
+- I did not struggle with this module.

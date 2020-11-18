@@ -1,0 +1,4 @@
+function timesFive(varP){
+    return varP*5;
+}
+timesFive(5);

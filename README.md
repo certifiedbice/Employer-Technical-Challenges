@@ -606,6 +606,10 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 
 **Build a Survey Form**
 - https://codepen.io/certifiedbice/pen/eYzaBVL
+
+**Build a Product Landing Page**
+- https://codepen.io/certifiedbice/pen/LYZoWpO
+
 ## Javascript Algorithms and Data Structures Certification (300 hours)
 
 ### Basic Javascript

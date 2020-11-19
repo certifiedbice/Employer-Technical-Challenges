@@ -528,6 +528,77 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Use the align-self Property**
 - I did not struggle with this module.
 
+### CSS Grid
+
+**Introduction to the CSS Grid Challenges**
+- I did not struggle with this module.
+
+**Create Your First CSS Grid**
+- I did not struggle with this module.
+
+**Add Columns with grid-template-columns**
+- I did not struggle with this module.
+
+**Add Rows with grid-template-rows**
+- I did not struggle with this module.
+
+**Use CSS Grid units to Change the Size of Columns and Rows**
+- I did not struggle with this module.
+
+**Create a Column Gap Using grid-column-gap**
+- I did not struggle with this module.
+
+**Create a Row Gap using grid-row-gap**
+- I did not struggle with this module.
+
+**Add Gaps Faster with grid-gap**
+- I did not struggle with this module.
+
+**Use grid-column to Control Spacing**
+- I did not struggle with this module.
+
+**Use grid-row to Control Spacing**
+- I did not struggle with this module.
+
+**Align an Item Horizontally using justify-self**
+- I did not struggle with this module.
+
+**Align an Item Vertically using align-self**
+- I did not struggle with this module.
+
+**Align All Items Horizontally using justify-items**
+- I did not struggle with this module.
+
+**Align All Items Vertically using align-items**
+- I did not struggle with this module.
+
+**Divide the Grid Into an Area Template**
+- I did not struggle with this module.
+
+**Place Items in Grid Areas Using the grid-area Property**
+- I did not struggle with this module.
+
+**Use grid-area Without Creating an Areas Template**
+- I did not struggle with this module.
+
+**Reduce Repetition Using the repeat Function**
+- I did not struggle with this module.
+
+**Limit Item Size Using the minmax Function**
+- I did not struggle with this module.
+
+**Create Flexible Layouts Using auto-fill**
+- I did not struggle with this module.
+
+**Create Flexible Layouts Using auto-fit**
+- I did not struggle with this module.
+
+**Use Media Queries to Create Responsive Layouts**
+- I did not struggle with this module.
+
+**Create Grids within Grids**
+- I did not struggle with this module.
+
 ## Javascript Algorithms and Data Structures Certification (300 hours)
 
 ### Basic Javascript

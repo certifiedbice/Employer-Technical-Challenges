@@ -472,6 +472,62 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Make Typography Responsive**
 - I did not struggle with this module.
 
+### CSS Flexbox
+
+**Introduction to the CSS Flexbox Challenges**
+- I did not struggle with this module.
+
+**Use display: flex to Position Two Boxes**
+- I did not struggle with this module.
+
+**Add Flex Superpowers to the Tweet Embed**
+- I did not struggle with this module.
+
+**Use the flex-direction Property to Make a Row**
+- I did not struggle with this module.
+
+**Apply the flex-direction Property to Create Rows in the Tweet Embed**
+- I did not struggle with this module.
+
+**Use the flex-direction Property to Make a Column**
+- I did not struggle with this module.
+
+**Apply the flex-direction Property to Create a Column in the Tweet Embed**
+- I did not struggle with this module.
+
+**Align Elements Using the justify-content Property**
+- I did not struggle with this module.
+
+**Use the justify-content Property in the Tweet Embed**
+- I did not struggle with this module.
+
+**Align Elements Using the align-items Property**
+- I did not struggle with this module.
+
+**Use the align-items Property in the Tweet Embed**
+- I did not struggle with this module.
+
+**Use the flex-wrap Property to Wrap a Row or Column**
+- I did not struggle with this module.
+
+**Use the flex-shrink Property to Shrink Items**
+- I did not struggle with this module.
+
+**Use the flex-grow Property to Expand Items**
+- I did not struggle with this module.
+
+**Use the flex-basis Property to Set the Initial Size of an Item**
+- I did not struggle with this module.
+
+**Use the flex Shorthand Property**
+- I did not struggle with this module.
+
+**Use the order Property to Rearrange Items**
+- I did not struggle with this module.
+
+**Use the align-self Property**
+- I did not struggle with this module.
+
 ## Javascript Algorithms and Data Structures Certification (300 hours)
 
 ### Basic Javascript

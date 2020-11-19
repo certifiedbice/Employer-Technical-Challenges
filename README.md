@@ -599,6 +599,11 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Create Grids within Grids**
 - I did not struggle with this module.
 
+### Responsive Web Design Projects
+
+**Build a Tribute Page**
+- https://codepen.io/certifiedbice/pen/oNLRzqP
+
 ## Javascript Algorithms and Data Structures Certification (300 hours)
 
 ### Basic Javascript

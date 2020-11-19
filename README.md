@@ -455,6 +455,22 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Use tabindex to Specify the Order of Keyboard Focus for Several Elements**
 - I did not struggle with this module.
 
+### Responsive Web Design Principles
+
+**Introduction to the Responsive Web Design Challenges**
+- I did not struggle with this module.
+
+**Create a Media Query**
+- I did not struggle with this module.
+
+**Make an Image Responsive**
+- I did not struggle with this module.
+
+**Use a Retina Image for Higher Resolution Displays**
+- I did not struggle with this module.
+
+**Make Typography Responsive**
+- I did not struggle with this module.
 
 ## Javascript Algorithms and Data Structures Certification (300 hours)
 

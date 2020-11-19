@@ -6,7 +6,7 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 
 ## Responsive Web Design Certification (300 hours)
 
-### Introduction to Basic HTML and HTML5
+### Basic HTML and HTML5
 
 **Say Hello to HTML elements**
 - I did not struggle with this module.
@@ -89,7 +89,7 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Define the Head and Body of an HTML Document**
 - I did not struggle with this module.
 
-### Introduction to Basic CSS
+### Basic CSS
 
 **Change the Color of Text**
 - I did not struggle with this module.
@@ -223,7 +223,7 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Use a media query to change a variable**
 - I did not struggle with this module.
 
-### Introduction to the Applied Visual Design Challenges
+### Applied Visual Design
 
 **Introduction to the Applied Visual Design Challenges**
 - I did not struggle with this module.
@@ -383,6 +383,78 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 
 **Make Motion More Natural Using a Bezier Curve**
 - I did not struggle with this module.
+
+### Applied Accessibility
+
+**Introduction to the Applied Accessibility Challenges**
+- I did not struggle with this module.
+
+**Add a Text Alternative to Images for Visually Impaired Accessibility**
+- I did not struggle with this module.
+
+**Know When Alt Text Should be Left Blank**
+- I did not struggle with this module.
+
+**Use Headings to Show Hierarchical Relationships of Content**
+- I did not struggle with this module.
+
+**Jump Straight to the Content Using the main Element**
+- I did not struggle with this module.
+
+**Wrap Content in the article Element**
+- I did not struggle with this module.
+
+**Make Screen Reader Navigation Easier with the header Landmark**
+- I did not struggle with this module.
+
+**Make Screen Reader Navigation Easier with the nav Landmark**
+- I did not struggle with this module.
+
+**Make Screen Reader Navigation Easier with the footer Landmark**
+- I did not struggle with this module.
+
+**Improve Accessibility of Audio Content with the audio Element**
+- I did not struggle with this module.
+
+**Improve Chart Accessibility with the figure Element**
+- I did not struggle with this module.
+
+**Improve Form Field Accessibility with the label Element**
+- I did not struggle with this module.
+
+**Wrap Radio Buttons in a fieldset Element for Better Accessibility**
+- I did not struggle with this module.
+
+**Add an Accessible Date Picker**
+- I did not struggle with this module.
+
+**Standardize Times with the HTML5 datetime Attribute**
+- I did not struggle with this module.
+
+**Make Elements Only Visible to a Screen Reader by Using Custom CSS**
+- I did not struggle with this module.
+
+**Improve Readability with High Contrast Text**
+- I did not struggle with this module.
+
+**Avoid Colorblindness Issues by Using Sufficient Contrast**
+- I did not struggle with this module.
+
+**Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information**
+- I did not struggle with this module.
+
+**Give Links Meaning by Using Descriptive Link Text**
+- I did not struggle with this module.
+
+**Make Links Navigable with HTML Access Keys**
+- I did not struggle with this module.
+
+**Use tabindex to Add Keyboard Focus to an Element**
+- I did not struggle with this module.
+
+**Use tabindex to Specify the Order of Keyboard Focus for Several Elements**
+- I did not struggle with this module.
+
 
 ## Javascript Algorithms and Data Structures Certification (300 hours)
 
@@ -723,3 +795,4 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 
 **Use Recursion to Create a Range of Numbers**
 - I did not struggle with this module.
+

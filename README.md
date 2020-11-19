@@ -613,6 +613,9 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Build a Technical Documentation Page**
 - https://codepen.io/certifiedbice/pen/YzWbVRw
 
+**Build a Personal Portfolio Webpage**
+- https://codepen.io/certifiedbice/pen/VwjOzBV
+
 ## Javascript Algorithms and Data Structures Certification (300 hours)
 
 ### Basic Javascript

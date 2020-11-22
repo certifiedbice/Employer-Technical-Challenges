@@ -956,3 +956,101 @@ There is no limit to the number of responses or lessons mentioned. We have provi
 **Use Recursion to Create a Range of Numbers**
 - I did not struggle with this module.
 
+
+### ES6
+
+**Introduction to the ES6 Challenges**
+- I did not struggle with this module.
+
+**Explore Differences Between the var and let Keywords**
+- I did not struggle with this module.
+
+**Compare Scopes of the var and let Keywords**
+- I did not struggle with this module.
+
+**Declare a Read-Only Variable with the const Keyword**
+- I did not struggle with this module.
+
+**Mutate an Array Declared with const**
+- I did not struggle with this module.
+
+**Prevent Object Mutation**
+- I did not struggle with this module.
+
+**Use Arrow Functions to Write Concise Anonymous Functions**
+- I did not struggle with this module.
+
+**Write Arrow Functions with Parameters**
+- I did not struggle with this module.
+
+**Set Default Parameters for Your Functions**
+- I did not struggle with this module.
+
+**Use the Rest Parameter with Function Parameters**
+- I did not struggle with this module.
+
+**Use the Spread Operator to Evaluate Arrays In-Place**
+- I did not struggle with this module.
+
+**Use Destructuring Assignment to Extract Values from Objects**
+- I did not struggle with this module.
+
+**Use Destructuring Assignment to Assign Variables from Objects**
+- I did not struggle with this module.
+
+**Use Destructuring Assignment to Assign Variables from Nested Objects**
+- I did not struggle with this module.
+
+**Use Destructuring Assignment to Assign Variables from Arrays**
+- I did not struggle with this module.
+
+**Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements**
+- I did not struggle with this module.
+
+**Use Destructuring Assignment to Pass an Object as a Function's Parameters**
+- I did not struggle with this module.
+
+**Create Strings using Template Literals**
+- I did not struggle with this module.
+
+**Write Concise Object Literal Declarations Using Object Property Shorthand**
+- I did not struggle with this module.
+
+**Write Concise Declarative Functions with ES6**
+- I did not struggle with this module.
+
+**Use class Syntax to Define a Constructor Function**
+- I did not struggle with this module.
+
+**Use getters and setters to Control Access to an Object**
+- I did not struggle with this module.
+
+**Create a Module Script**
+- I did not struggle with this module.
+
+**Use export to Share a Code Block**
+- I did not struggle with this module.
+
+**Reuse JavaScript Code Using import**
+- I did not struggle with this module.
+
+**Use * to Import Everything from a File**
+- I did not struggle with this module.
+
+**Create an Export Fallback with export default**
+- I did not struggle with this module.
+
+**Import a Default Export**
+- I did not struggle with this module.
+
+**Create a JavaScript Promise**
+- I did not struggle with this module.
+
+**Complete a Promise with resolve and reject**
+- I did not struggle with this module.
+
+**Handle a Fulfilled Promise with then**
+- I did not struggle with this module.
+
+**Handle a Rejected Promise with catch**
+- I did not struggle with this module.

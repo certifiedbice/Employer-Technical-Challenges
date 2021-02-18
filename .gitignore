@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+<<<<<<< HEAD
 /**/node_modules
 /**/.pnp
 /**/.pnp.js
@@ -27,10 +28,42 @@
 /**/yarn-debug.log*
 /**/yarn-error.log*
 /**/*.log
+=======
+/*/node_modules
+/*/.pnp
+/*/.pnp.js
+
+# testing
+/*/coverage
+
+# production
+/*/build
+
+# Environment Variables
+/*/.env
+/*/.env.local
+/*/.env.development.local
+/*/.env.test.local
+/*/.env.production.local
+
+# misc
+/*/.DS_Store
+/techtonic/build-files
+
+# Logs
+/*/npm-debug.log*
+/*/yarn-debug.log*
+/*/yarn-error.log*
+/*/*.log
+>>>>>>> f803608e346d855e986fd146f24e33f68ef49303
 
 # VSCode
 /.vscode
 /*.code-workspace
 
 #Vercel
+<<<<<<< HEAD
 /**/.vercel
+=======
+/*/.vercel
+>>>>>>> f803608e346d855e986fd146f24e33f68ef49303

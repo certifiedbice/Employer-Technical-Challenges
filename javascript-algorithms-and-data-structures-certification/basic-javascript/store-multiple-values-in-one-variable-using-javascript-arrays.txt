@@ -1,4 +1,0 @@
-// Only change code below this line
-var myArray = [];
-myArray[0] = 'svv';
-myArray[1] = 1;

@@ -1,6 +1,0 @@
-var myList = [];
-myList.push(['protein',1]);
-myList.push(['fiber',2]);
-myList.push(['sugar',3]);
-myList.push(['wheat',4]);
-myList.push(['flour',5]);

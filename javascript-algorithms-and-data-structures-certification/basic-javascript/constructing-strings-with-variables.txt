@@ -1,3 +1,0 @@
-// Only change code below this line
-var myName='pop';
-var myStr='I'+myName+'it';

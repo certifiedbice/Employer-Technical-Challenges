@@ -1,5 +1,168 @@
-html {}
+html {
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+}
 
-body {}
+body {
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	width: 100vw;
+	background-color: #ffffff;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+}
 
-main {}
+header {
+	position: absolute;
+	margin: 0;
+	height: auto;
+	width: 100vw;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	text-align: center;
+}
+
+#toggle-button {
+	border: 1px solid #000000;
+	background-color: #ffffff;
+	color: #000000;
+	cursor: pointer;
+}
+
+#toggle-button:hover {
+	border: 1px solid #ffffff;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+main {
+	position: absolute;
+	display: block;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	margin: 0;
+	height: 100vh;
+	width: 100vw;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	padding: 0;
+}
+
+section {
+	display: flex;
+	position: relative;
+	height: auto;
+	width: 50vw;
+	top: 100px;
+	left: 0;
+	margin: auto;
+	padding: 0;
+}
+
+#widget-container h2 {
+	margin: 0;
+	background-color: #ffffff;
+	color: #000000;
+	cursor: pointer;
+	padding: 10px;
+}
+
+#widget-container h2:hover {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#widget-container div {
+	display: none;
+}
+
+.active-h2 {
+	background-color: #000000 !important;
+	color: #ffffff !important;
+}
+
+.accordion {
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+.accordion h2 {
+	position: relative;
+	display: block;
+	margin: 0;
+	width: 100%;
+	border-bottom: 1px solid #000000;
+	text-align: left;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.accordion h2:last-child {
+	border-bottom: 0;
+}
+
+.accordion span:last-child {
+	float: right;
+}
+
+.accordion div {
+	margin: 0;
+	padding: 15px;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.5s ease-out;
+}
+
+.accordion-active-content {
+	display: block !important;
+}
+
+.tabs {
+	min-width: 500px;
+	text-align: center;
+}
+
+.tabs h2 {
+	position: relative;
+	margin: 0;
+	width: 25%;
+	border: 1px solid #000000;
+	text-align: center;
+}
+
+.tabs > h2:first-of-type {
+	margin-left: 12.5% !important;
+}
+
+.tabs > h2:last-of-type {
+	margin-right: 12.5% !important;
+}
+
+.tabs h2 span:last-child {
+	display: none;
+}
+
+.tabs div {
+	position: absolute;
+	margin: 50px 10px 0 10px;
+	padding: 10px 0 10px 0;
+}
+
+.tabs-active-content {
+	display: block !important;
+	position: absolute;
+}

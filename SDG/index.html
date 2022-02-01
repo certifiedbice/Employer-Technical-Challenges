@@ -3,13 +3,92 @@
 	<head>
 		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 		<meta content="utf-8" http-equiv="encoding">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>Accordions</title>
-		<link rel="stylesheet" href="css/accordion.css" type="text/css">
-	</head>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+		<link rel="stylesheet" href="css/accordion.css" type="text/css" media="all">
+		</head>
 	<body>
-        <header>Accordions Abound&#33;</header>
+		<!-- Header used for presentation purposes -->
+		<header id="page-header">
+			<span>Accordions Abound&#33;</span>
+			<div id="toggle-container-type-button-container">
+				<button id="toggle-button">Toggle Accordion</button>
+			</div>
+		</header>
 		<main>
+			<section id="widget-container" class="accordion">
+				<h2 id="widget-option-h2-0" class="widget-option-h2">
+					<span>FIT GUIDE</span>
+					<span>&#43;</span>
+				</h2>
+				<div id="widget-option-content-0" class="widget-option-content">
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+						Morbi rhoncus velit in mauris laoreet, nec volutpat quam 
+						blandit. Cras sodales arcu vel purus volutpat, ut ornare 
+						sem sodales. Morbi congue ultrices lorem eu semper. Sed 
+						pretium maximus diam, at volutpat mauris commodo at. 
+						Vivamus vestibulum enim risus, quis hendrerit orci 
+						tristique eget. Curabitur eget orci id arcu facilisis 
+						pulvinar a sed risus. Sed tempor eu libero vel suscipit. 
+						Nunc sit amet iaculis erat. Nam porta lectus sed massa 
+						pellentesque, eu rhoncus lorem viverra. Praesent maximus, 
+						augue ac sodales bibendum, ligula dui rhoncus neque, non 
+						blandit dui elit scelerisque turpis. 
+					</p>
+				</div>
+				<h2 id="widget-option-h2-1" class="widget-option-h2">
+					<span>CARE</span>
+					<span>&#43;</span>
+				</h2>
+				<div id="widget-option-content-1" class="widget-option-content">
+					<p>
+						Praesent molestie nisi nunc, a tristique leo 
+						tincidunt sit amet. Etiam leo turpis, dignissim 
+						a dapibus quis, interdum quis risus. Donec nec 
+						pretium diam. Aliquam erat volutpat. Nullam et 
+						ehicula magna, nec hendrerit nibh. Aliquam 
+						dignissim magna magna, non sollicitudin libero 
+						scelerisque facilisis. Duis placerat leo eu 
+						orci sagittis, ut faucibus arcu molestie. 
+						Fusce ut tortor faucibus, ullamcorper lectus 
+						ac, pellentesque eros. Nullam mollis fringilla 
+						fringilla. Vestibulum eu sem id leo dapibus 
+						rhoncus. Nulla vitae mollis dolor, a consequat 
+						velit. Suspendisse maximus varius massa quis 
+						elementum. Sed turpis tellus, ultrices quis 
+						elit eget, varius ultrices est. 
+					</p>
+				</div>
+				<h2 id="widget-option-h2-2" class="widget-option-h2">
+						<span>MATERIALS</span>
+						<span>&#43;</span>
+				</h2>
+				<div id="widget-option-content-2" class="widget-option-content">
+					<p>
+						Ut aliquam, nisi et sodales sagittis, 
+						mi risus eleifend orci, nec volutpat eros 
+						magna in leo. Donec vitae consectetur odio, 
+						cursus pellentesque justo. Donec ut est 
+						viverra, suscipit nisl sit amet, vehicula 
+						enim. Phasellus sit amet convallis urna. 
+						Donec eget nulla orci. Vivamus non ex vel 
+						nibh posuere vulputate id eget nisl. Integer 
+						nec eros ultrices, molestie lacus eu, 
+						maximus elit. Nam pretium, massa in volutpat 
+						aliquet, leo risus ullamcorper turpis, sit 
+						amet molestie justo elit consectetur lacus. 
+						Duis eu dui eu augue tristique porta. 
+						Integer vel elit vel dolor interdum facilisis 
+						nec id augue.
+					</p>
+				</div>
+			</section>
 		</main>
-		<script type="module" language="javascript" src="./js/accordion.js"></script>
+		<!-- Loading javascript once DOM is intact -->
+		<script language="javascript" src="js/accordion.js"></script>
 	</body>
 </html>
